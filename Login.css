@@ -1,0 +1,53 @@
+
+form{
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(70, 134, 6);
+    background-color: aliceblue;
+}
+h2{
+    color: #333;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1% solid #ccc;
+    font-size: 25px;
+}
+button{
+    border-radius: 10px;
+    margin: 50px;
+    padding: 10px;
+    background-color: rgb(121, 223, 19);
+    color: white;
+    width: 170px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+}
+button:hover{
+    background-color: rgb(255, 0, 0);
+}
+a{
+    text-decoration: none; 
+    text-align: center;
+    padding: 50px;
+    font-size: 15px;
+}
+
+
+
